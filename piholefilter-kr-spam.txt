@@ -1,0 +1,12 @@
+[Adblock Plus]
+! Syntax: AdBlock
+!
+||uzu.kr^
+||xgo.kr^
+||c11.kr^
+||han.gl^
+||s8u.cn^
+||gg.gg^
+||googlesv.com^
+||yahwagsc.pro^
+||ilogensn.com^
